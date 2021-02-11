@@ -1,7 +1,7 @@
 # Fake-News-Classifier
 
 ## Dataset
- From Kaggle
+- Given
  
  ## Description
 - The dataset contains News, Title, Text, and Label as the attributes. 
